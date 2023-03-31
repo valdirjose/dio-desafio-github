@@ -1,2 +1,5 @@
 # BootCamp DIO - Desafio repositório Git/GitHub
-Desafio de projeto sobre Git/GitHub
+Reposítório criado para o desfio. 
+
+## Link Útil 
+[Sintaxe Básica Markdown] (https://markdown.net.br/sintaxe-basica/) 
